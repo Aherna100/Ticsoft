@@ -1,8 +1,8 @@
 module.exports = {
     HOST: "localhost",
     USER: "root",
-    PASSWORD: "",
-    DB: "pruebaherokubase",
+    PASSWORD: "hansee",
+    DB: "ticsoft",
     dialect: "mysql",
     timezone: "-05:00",
     pool: {
